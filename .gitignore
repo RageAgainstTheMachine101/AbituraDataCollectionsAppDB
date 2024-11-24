@@ -2,5 +2,10 @@
 .env
 
 .idea
+.DS_Store
 
 __pycache__
+
+# artifacts
+mydatabase.db
+consolidated_erd*
