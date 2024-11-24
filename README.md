@@ -1,3 +1,5 @@
+![consolidated_erd](https://github.com/user-attachments/assets/69ac4cd6-7865-4257-9de9-70c3e83050f8)
+
 # Introduction
 
 This project aims to manage and interact with a database efficiently using Python. Here is a step-by-step guide to help
