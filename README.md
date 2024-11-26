@@ -1,3 +1,12 @@
+```
+ABITURA Višja strokovna šola 
+SEMINARSKA NALOGA 
+pri predmetu Zbirke podatkov I
+Študent: Vladimir Klimov
+Predavatelj: Dr. Darko Golec
+Celje, November 2024
+```
+
 ![consolidated_erd](https://github.com/user-attachments/assets/69ac4cd6-7865-4257-9de9-70c3e83050f8)
 
 # Review
